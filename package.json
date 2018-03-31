@@ -1,6 +1,6 @@
 {
 	"author": "carmen.barrachina.herrera@gmail.com",
-	"name": "censorify",
+	"name": "cbarrachina-censorify",
 	"version": "0.1.1",
 	"description": "Censors words out of text",
 	"main": "censortext",
